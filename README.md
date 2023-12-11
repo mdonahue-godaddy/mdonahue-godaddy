@@ -1,4 +1,11 @@
-## Welcome to my GitHub account!!  My name is Michael Donahue and I've been a professional developer since 1989.
+## Welcome to my GitHub Overview!!
+
+I'm Mike Donahue and I've been a professional developer since 1989.
+
+- 🌱 I'm FOREVER learning and curious!!
+- 🤺 Security Champion Trained
+- 🏫 AWS Architect Trained (but haven't take the test yet)
+- 🧑‍🤝‍🧑 Customer 1st Oriented
 
 ![GitHub followers](https://img.shields.io/github/followers/mdonahue-godaddy)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mdonahue.mdonahue)
