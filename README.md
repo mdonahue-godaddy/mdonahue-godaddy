@@ -16,27 +16,42 @@
 <br>
 
 ## 🎨 My Favorite Languages and Tools
-```javascript
-import brain from 'mybody'
-import myLanguage from 'programmingLanguage'
-import myTools from 'tools'
+```go
+package main
 
-const languageList = {
-  basic: ['Python','TypeScript'],
-  intermediate: ['Java'],
-  advanced: ['C','C++','C#','Go','JavaScript'],
-  others: ['Scala','Pascal'],
-  web: ['HTML','CSS'],
+import (
+	"fmt"
+	"strings"
+)
+
+var (
+	languageList = map[string][]string{
+		"intermediate": []string{"Java", "Python", "Typescript"},
+		"advanced":     []string{"C", "C++", "C#", "Go", "Javascript"},
+		"web":          []string{"HTML", "CSS"},
+	}
+
+	toolList = map[string][]string{
+		"coding":  []string{"AWS", "Docker", "Git", "Github/Actions", "VSCode"},
+		"network": []string{"Sockets", "TCP/IP", "HTTPS", "Wireshark"},
+	}
+)
+
+func main() {
+	fmt.Println("\nFavorite Languages:")
+
+	for level, lang := range languageList {
+		fmt.Printf("\t%s: %s\n", level, strings.Join(lang[:], ", "))
+	}
+
+	fmt.Println("\n\nFavorite Tools:")
+
+	for toolType, toolName := range toolList {
+		fmt.Printf("\t%s: %s\n", toolType, strings.Join(toolName[:], ", "))
+	}
 }
-
-const toolList = {
-  code: ['aws','git','github','github actions','vscode'],
-}
-
-const myBrain = brain.merge(myLanguange.add(languageList), myTools.add(toolList))
-console.log(myBrain)
   
 ```
-## 📃 Current Stats
+## 📃 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdonahue-godaddy&count_private=true&show_icons=true)
