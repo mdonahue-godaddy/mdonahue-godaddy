@@ -1,6 +1,6 @@
-## Welcome to my GitHub Overview!!
+## Welcome to my GitHub Overview!
 
-I'm Mike Donahue and I've been a professional developer since 1989.
+Hi, I'm Mike Donahue,
 
 - 🌱 I'm FOREVER learning and curious!!
 - 🤺 Security Champion Trained
@@ -11,15 +11,11 @@ I'm Mike Donahue and I've been a professional developer since 1989.
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mdonahue.mdonahue)
 
 
-## I'm a Senior Fullstack Software Engineer
-
-
 ## You can contact me here
 
-![Github URL](https://img.shields.io/twitter/url?color=dddddd&label=mdonahue-godaddy&logo=github&style=flat-square&url=https%3A%2F%2Fgithub.com%2Fmdonahue-godaddy)
-![Linkedin URL](https://img.shields.io/twitter/url?color=%230075c4&label=Michael%20Donahue&logo=linkedin&style=flat-square&url=https%3A%2F%2Flinkedin.com%2Fin%2Fkhoer)
-
-![email](https://img.shields.io/badge/mdonahue%40godaddy.com?logo=godaddy&label=email&labelColor=blue&color=green&link=mailto%3Amdonahue%40godaddy.com)
+![Github URL](https://img.shields.io/static/v1?message=mdonahue-godaddy&logo=github&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&link=http%3A%2F%2Fgithub.com%2Fmdonahue-godaddy&link=http%3A%2F%2Fgithub.com%2Fmdonahue-godaddy)
+![Linkedin URL](https://img.shields.io/static/v1?message=Michael%20Donahue&logo=linkedin&labelColor=5c5c5c&color=1182c3&logoColor=white&label=Linked%20In&link=http%3A%2F%2Fwww.linkedin.com%2Fin%2Fmichael-donahue-15138314%2F&link=http%3A%2F%2Fwww.linkedin.com%2Fin%2Fmichael-donahue-15138314%2F)
+![email](https://img.shields.io/static/v1?message=mdonahue%40godaddy.com&labelColor=5c5c5c&color=1182c3&logoColor=white&label=email&link=mailto%3Amdonahue%40godaddy.com&link=mailto%3Amdonahue%40godaddy.com)
 
 <br>
 <br>
