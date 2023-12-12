@@ -55,6 +55,6 @@ func main() {
 }
   
 ```
-## 📃 Stats
+## 📃 Stats (I have multiple github accounts. This only reflects this account.)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdonahue-godaddy&count_private=true&show_icons=true)
