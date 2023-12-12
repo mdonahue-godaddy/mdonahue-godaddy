@@ -18,7 +18,9 @@ I'm Mike Donahue and I've been a professional developer since 1989.
 
 ![Github URL](https://img.shields.io/twitter/url?color=dddddd&label=mdonahue-godaddy&logo=github&style=flat-square&url=https%3A%2F%2Fgithub.com%2Fmdonahue-godaddy)
 ![Linkedin URL](https://img.shields.io/twitter/url?color=%230075c4&label=Michael%20Donahue&logo=linkedin&style=flat-square&url=https%3A%2F%2Flinkedin.com%2Fin%2Fkhoer)
-![Email URL](https://img.shields.io/twitter/url?color=e20056&label=mdonahue%40godaddy.com&logo=outlook&style=flat-square&url=https%3A%2F%2Fgodaddy.com)
+
+![email](https://img.shields.io/badge/mdonahue%40godaddy.com?logo=godaddy&label=email&labelColor=blue&color=green&link=mailto%3Amdonahue%40godaddy.com)
+
 <br>
 <br>
 
