@@ -17,8 +17,6 @@ Hi, I'm Mike Donahue,
 ![Linkedin URL](https://img.shields.io/static/v1?message=Michael%20Donahue&logo=linkedin&labelColor=5c5c5c&color=1182c3&logoColor=white&label=Linked%20In&link=http%3A%2F%2Fwww.linkedin.com%2Fin%2Fmichael-donahue-15138314%2F&link=http%3A%2F%2Fwww.linkedin.com%2Fin%2Fmichael-donahue-15138314%2F)
 ![email](https://img.shields.io/static/v1?message=mdonahue%40godaddy.com&labelColor=5c5c5c&color=1182c3&logoColor=white&label=email&link=mailto%3Amdonahue%40godaddy.com&link=mailto%3Amdonahue%40godaddy.com)
 
-<br>
-<br>
 
 ## 🎨 My Favorite Languages and Tools
 ```go
