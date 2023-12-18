@@ -6,6 +6,12 @@ Hi, I'm Mike Donahue,
 - 🤺 Security Champion Trained
 - 🏫 AWS Architect Trained (but haven't take the test yet)
 - 🧑‍🤝‍🧑 Customer 1st Oriented
+- 💻 Computer nerd
+- ⚡ Electronics Builder / Tinker
+- 📡 Amature (Ham) Radio Operator
+- 🔨 DIYer
+- 🏡 Goal to live green
+- 🌎 Modern day renaissance person
 
 ![GitHub followers](https://img.shields.io/github/followers/mdonahue-godaddy)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mdonahue.mdonahue)
